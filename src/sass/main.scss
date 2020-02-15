@@ -1,0 +1,12 @@
+$sheet-border-radius: 6px;
+$btn-border-radius: 6px;
+$expansion-panel-border-radius: 6px;
+
+// Required for modifying core defaults
+@import '~vuetify/src/styles/styles.sass';
+
+$container-max-widths: map-merge($container-max-widths, (
+  'md': 1480px,
+  'lg': 1480px,
+  'xl': 1480px
+));

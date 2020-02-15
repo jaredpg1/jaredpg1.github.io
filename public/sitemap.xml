@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+      <loc>https://vuetifyjs.com/</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/contact-us</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/about-us</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/licensing</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/privacy-policy</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/terms-of-service</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/refund-policy</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/thank-you</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/collections</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/collections/tops</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/paint-by-numbers-tunic</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/popcorn-bubble-sweater</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/state-fair-tunic</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/head-over-heels-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/adventure-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/dixieland-delight-bubble-sleeve</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/walk-in-the-park-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/ruffle-my-feathers</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/lemon-drop-tunic</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/dancin-in-the-street</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/rustic-owl-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/peaceful-soul-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/wear-it-your-way-swing-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/oh-my-stars-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/the-carlie-dolman-tunic</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/the-carol-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/going-home-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/z-supply-the-rugby-stripe-weekender</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/blue-skies-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/the-stevie-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/collections/bottoms</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/gemma-mid-rise-ankle-skinny-jean</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/gemma-high-rise-ankle-skinny</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/blushing-mini</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/cello-black-denim-skinny-jeans</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/collections/dresses</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/how-sweet-it-is-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/daydreamer-tunic-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/count-me-in-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/blissful-jumper</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/alayna-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/electric-shock-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/the-reverie-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/surprise-me-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/beautiful-sunrise-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/ill-fly-away-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/flirt-with-me-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/z-supply-the-camo-split-neck-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/everything-happens-for-a-reason-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/play-outside-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/back-together-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/joy-stripe-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/boho-rustic-t-shirt-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/melt-my-heart-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/frayed-lines-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/serendipity-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/collections/curvy-girl</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/simply-southern-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/on-the-town-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/plum-crazy-tunic</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/jersey-girl-tunic</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/lets-go-tunic</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/seeing-stars-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/bella-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/just-peachy-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/sweet-melissa-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/perfect-midi-dress-1</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/perfect-midi-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/collections/shoes</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/volta</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/marge-sandal</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/pine-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/vida-wedge-new-tan</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/birk-inspired-sandal</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/kimmie</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/hoopla</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/mario</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/pierre-dumas-drake-sandal</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/the-ponce-clog</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/collections/accessories</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/collections/clearance</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/boho-chic-tunic</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/wishing-well-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/perfect-midi-dress-lilac</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/perfect-midi-dress-off-white</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/perfect-midi-dress-taupe</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/porch-swing-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/take-it-easy-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/collections/newarrivals</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/z-supply-the-dakota-pullover</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/taste-the-rainbow-dress</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/z-supply-mini-leopard-v-neck-tee</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/z-supply-the-pocket-tee</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/collections/featuredcollection</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/feels-so-good-hoodie</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/free-falling-top</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/collections/gift-cards</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+<url>
+      <loc>https://vuetifyjs.com/product/gift-card</loc>
+      <lastmod>2020-02-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0000</priority>
+</url>
+</urlset>

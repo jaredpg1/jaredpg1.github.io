@@ -1,0 +1,17 @@
+{
+  "name": "ecommerce",
+  "version": 1,
+  "type": "static",
+  "static": {
+    "public": "dist",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  },
+  "files": [
+    "dist"
+  ]
+}

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cfe29"],{"662e":function(e,r,t){"use strict";t.r(r);var c=function(){var e=this,r=e.$createElement,t=e._self._c||r;return t("base-products",{attrs:{id:"new-arrivals",products:e.products,heading:"New Arrivals"}})},s=[],n=t("7ffd"),u={name:"HomeNewArrivals",computed:{products:Object(n["c"])("products/productsByNew")}},a=u,o=t("2877"),d=Object(o["a"])(a,c,s,!1,null,null,null);r["default"]=d.exports}}]);
+//# sourceMappingURL=chunk-2d0cfe29.8277f55f.js.map
